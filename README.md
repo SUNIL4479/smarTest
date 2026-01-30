@@ -1,4 +1,4 @@
-# 🚀 Project Name
+# 🚀 smarTest - Online Contest Platform
 
 A modern, high-performance web application built from scratch using a scalable and developer-friendly frontend stack.  
 The project focuses on clean architecture, reusable components, fast builds, and a smooth development experience.
@@ -48,11 +48,11 @@ Make sure **Node.js** and **npm** are installed on your system
 
 ## Clone the Repository
 
-git clone <YOUR_GIT_URL>
+git clone https://github.com/SUNIL4479/smarTest.git
 
 ## Navigate to the project
 
-cd <YOUR_PROJECT_NAME>
+cd smarTest
 
 ## install dependencies
 
